@@ -22,8 +22,7 @@ We love collaboration!
   <a href="https://x.com/zain2983">
     <img src="https://unavatar.io/twitter/zain2983" width="90" style="border-radius:50%;" /><br />
     <b>Zain</b><br />
-    <sub>Twitter: <a href="https://x.com/zain2983">@zain2983</a><br />
-    Telegram: <a href="https://t.me/zain2983">@zain2983</a></sub>
+    <sub><a href="https://x.com/zain2983">@zain2983</a> | <a href="https://t.me/zain2983">@zain2983</a></sub>
   </a>
 </p>
 
@@ -31,8 +30,7 @@ We love collaboration!
   <a href="https://x.com/ba_susali">
     <img src="https://unavatar.io/twitter/ba_susali" width="90" style="border-radius:50%;" /><br />
     <b>Basus Ali</b><br />
-    <sub>Twitter: <a href="https://x.com/ba_susali">@ba_susali</a><br />
-    Telegram: <a href="https://t.me/Basusalee">@ba_susali</a></sub>
+    <sub><a href="https://x.com/ba_susali">@ba_susali</a> | <a href="https://t.me/Basusalee">@ba_susali</a></sub>
   </a>
 </p>
 
@@ -40,8 +38,7 @@ We love collaboration!
   <a href="https://x.com/M_H_A_01">
     <img src="https://unavatar.io/twitter/M_H_A_01" width="90" style="border-radius:50%;" /><br />
     <b>Hamza</b><br />
-    <sub>Twitter: <a href="https://x.com/M_H_A_01">@M_H_A_01</a><br />
-    Telegram: <a href="https://t.me/hamza_the_great">@M_H_A_01</a></sub>
+    <sub><a href="https://x.com/M_H_A_01">@M_H_A_01</a> | <a href="https://t.me/hamza_the_great">@M_H_A_01</a></sub>
   </a>
 </p>
 
@@ -49,8 +46,7 @@ We love collaboration!
   <a href="https://x.com/stonksxnews">
     <img src="https://unavatar.io/twitter/stonksxnews" width="90" style="border-radius:50%;" /><br />
     <b>MrStonks</b><br />
-    <sub>Twitter: <a href="https://x.com/stonksxnews">@stonksxnews</a><br />
-    Telegram: <a href="https://t.me/Mista_Stonks">Mista_Stonks</a></sub>
+    <sub><a href="https://x.com/stonksxnews">@stonksxnews</a> | <a href="https://t.me/Mista_Stonks">Mista_Stonks</a></sub>
   </a>
 </p>
 
@@ -58,8 +54,7 @@ We love collaboration!
   <a href="https://x.com/BasusYahyah">
     <img src="https://unavatar.io/twitter/BasusYahyah" width="90" style="border-radius:50%;" /><br />
     <b>Yahyah</b><br />
-    <sub>Twitter: <a href="https://x.com/BasusYahyah">@BasusYahyah</a><br />
-    Telegram: <a href="#">@BasusYahyah</a></sub>
+    <sub><a href="https://x.com/BasusYahyah">@BasusYahyah</a> | <a href="#">@BasusYahyah</a></sub>
   </a>
 </p>
 
@@ -70,4 +65,3 @@ We love collaboration!
 ---
 
 💡 *At Vanta Labs, we believe in building the future—one project at a time.*  
-
